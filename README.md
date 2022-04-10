@@ -25,6 +25,10 @@ You can try it in [google colab](https://colab.research.google.com/drive/1YlWt--
    pip install -r requirements.txt
    ```
 
+3. Start
+  ```bash
+   python main.py
+   ```
 ### Usage
 
 ---
